@@ -22,4 +22,7 @@ Finalmente, tras sincronizar las tareas post-pago, el sistema muestra el mensaje
 
 3. Justificación del uso de los nodos de sincronización.
 
-5. Bibliografía utilizada siguiendo el estilo IEEE.
+- Nodos de Tareas(Rectángulos): Se usan para encapsular operaciones atómicas. Permiten la modularidad del código, facilitan el mantenimiento ya que cambian la lógica del inventario y no es necesario modificar la lógica de autenticidad de sesión.
+- Nodos de división(Flujos concurrentes y desordenados): Marcan el inicio de flujos de actividades en paralelo, evita cmeter errores de enredos, esencialmente facilita el proceso.
+
+4. Bibliografía utilizada siguiendo el estilo IEEE.
