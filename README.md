@@ -18,7 +18,8 @@ Finalmente, tras sincronizar las tareas post-pago, el sistema muestra el mensaje
 
 2. Inserción de la imagen del diagrama.
 
-<img width="1351" height="279" alt="Diagrama drawio" src="https://github.com/user-attachments/assets/7439d915-5c04-4f97-8453-4caf7b012d54" /> 
+<img width="1351" height="279" alt="DiagramaEEDD drawio" src="https://github.com/user-attachments/assets/7749ce8f-a96f-4cba-9324-fed9d39b828d" />
+
 
 3. Justificación del uso de los nodos de sincronización.
 
